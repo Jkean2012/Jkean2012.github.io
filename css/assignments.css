@@ -12,6 +12,31 @@ body {
                 color: white;
             }
             
+            h2 {
+                text-align: center;
+                color: white;
+            }
+            
+            h3  {
+                text-align: center;
+                color: white;
+            }
+            
+            h4 {
+                text-align: center;
+                color: white;
+            }
+            
+            h5 {
+                text-align: center;
+                color: white;
+            }
+            
+            h6 {
+                text-align: center;
+                color: white;
+            }
+            
             #particles-js {
             position: absolute;
             top: 0;
